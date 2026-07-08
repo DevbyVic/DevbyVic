@@ -1,4 +1,3 @@
-![welcome-header](https://github.com/user-attachments/assets/5b5b05fe-85f7-4ac6-8b8b-e4bea6a9d808)
 ## Hi there! I am Victor Rian👋
 
 who am I?
